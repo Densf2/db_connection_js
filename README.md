@@ -10,3 +10,5 @@ npm install
 ```
 node db_connection.js
 ```
+
+Used request for query data of DB (get data from, write data to db, update data at db, delete data at db)
